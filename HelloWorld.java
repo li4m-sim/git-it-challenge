@@ -3,7 +3,5 @@ public class HelloWorld {
     public HelloWorld() {
         i = 0;
     }
-    public int getI() {
-        return i;
-    }
+    
 }
